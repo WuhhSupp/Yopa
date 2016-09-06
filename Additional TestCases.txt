@@ -1,0 +1,40 @@
+TestCase2	
+1	Start Page
+2	Click Book free valuation link
+3	Enter Invalid Postcode
+4	Test for invalid icon
+5	Enter a valid postcode
+6	Test for valid icon
+7	Enter Invalid House Number
+8	Test for invalid icon
+9	Enter a valid House Number
+10	Test for invalid icon
+
+
+TestCase3	
+1	Start Page
+2	Click Book free valuation button
+3	Enter a valid postcode
+4	Enter a valid House Number
+5	Click Next
+6	Check Step2 appears
+7	Check local Agent is correct
+8	Select a date
+9	Select an appointment time
+10	Click book
+11	Check Step3 appears
+12	Enter a fullname
+13	Enter a valid telephone
+14	Enter a valid email
+15	Click confirm button
+16	Check valuation confirmation screen loads
+17	Check agent is correct
+18	Check date and time of Visit
+19	Check contact details
+
+TestCase4	
+1	Start Page
+2	Enter Postcode on main page
+3	Click Book free valuation button
+4	Check valuation page appears
+5	Check postcode field is populated as expected
